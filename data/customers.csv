@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Segment,City,State,Country,Contact_Person,Email,Phone,Credit_Limit,Payment_Terms_Days,Active
+CUST0001,"Smith, James and Hunt",Retail,Jaipur,New York,India,Krystal Donaldson,vanessaharvey@example.org,(267)578-5554x6183,166468.45,15,Yes
+CUST0002,Mayo-Phelps,Retail,Nagpur,Minnesota,India,Mariah Aguirre,umoore@example.org,(836)328-0277x921,416638.1,60,Yes
+CUST0003,"Yang, Hunter and Burns",Industrial,Surat,Indiana,India,Vincent Miller,fmcmahon@example.net,001-908-700-8760x907,23588.57,45,Yes
+CUST0004,Smith and Sons,E-Commerce,Delhi,Indiana,India,Nicole Garcia,smithryan@example.com,(235)963-9663x505,456539.61,60,No
+CUST0005,Zhang and Sons,Wholesale,Mumbai,New York,India,William Miller,xfox@example.org,551.942.9143x89920,39083.4,15,No
+CUST0006,Rowe-Burgess,Industrial,Hyderabad,Kansas,India,Danny Stewart,ashley60@example.net,7287039339,136006.24,30,Yes
+CUST0007,"Strong, Russell and Chang",Retail,Ahmedabad,New York,India,Amanda Harris,trujillomatthew@example.com,(389)402-1239x2398,71188.35,45,Yes
+CUST0008,"Irwin, Arellano and Johnson",Retail,Bangalore,Georgia,India,Mark Espinoza,bchristian@example.com,+1-587-814-2962x5950,357912.36,45,No
+CUST0009,"Hanna, Green and Smith",E-Commerce,Lucknow,North Carolina,India,Johnathan Nelson,tjohnston@example.org,001-705-946-6125x8379,445935.6,45,No
+CUST0010,"Dalton, Lee and Miller",Industrial,Lucknow,Virginia,India,Jonathan Adams,alyssa31@example.com,(708)201-9220x67002,467381.39,30,No
+CUST0011,Wolfe PLC,Industrial,Nagpur,Colorado,India,Donald Warner,qrhodes@example.net,580-349-3163x434,146286.89,60,No
+CUST0012,"Davis, Black and Fuller",Government,Chennai,New Mexico,India,Emily Macdonald,randywalker@example.org,+1-888-714-8837x150,226816.83,30,No
+CUST0013,Cooper LLC,Government,Kanpur,Delaware,India,Mark Collins,uruiz@example.com,001-378-799-6658x674,38444.98,45,No
+CUST0014,Kidd PLC,Industrial,Mumbai,Tennessee,India,Ryan Reid,chaas@example.net,702-761-5488x23614,82510.09,15,Yes
+CUST0015,Steele-Caldwell,Wholesale,Kolkata,Alabama,India,Isabel Clark,zgomez@example.org,001-825-643-7663,263211.42,30,Yes
+CUST0016,Johnson-Henderson,Industrial,Coimbatore,Missouri,India,Kenneth Douglas,bowmanluke@example.net,001-987-427-0113x0737,430218.05,45,Yes
+CUST0017,Johnson-Floyd,Industrial,Bangalore,New Jersey,India,Nathan Wilcox,sbrown@example.net,(390)411-9858,294623.41,45,Yes
+CUST0018,Moreno-Hunter,Government,Chennai,Alaska,India,Stephanie Hill,emilysims@example.org,001-456-362-4679x6872,76998.86,45,No
+CUST0019,"Martinez, Wong and Williams",Government,Pune,Delaware,India,Jordan Carter,henry72@example.net,5068183367,74875.33,60,No
+CUST0020,"Wright, James and Erickson",E-Commerce,Hyderabad,Nevada,India,Gabriella Dennis,penningtonaustin@example.org,575.746.0612x1994,474102.66,15,Yes
+CUST0021,"Adams, Maynard and Koch",Retail,Kolkata,Michigan,India,Tammy Huff,harriselizabeth@example.net,3617658866,106186.3,60,Yes
+CUST0022,Donaldson Inc,Government,Pune,Kansas,India,Meghan Barron,kevin40@example.net,+1-870-915-5498x0711,83240.14,15,Yes
+CUST0023,Zuniga LLC,Industrial,Bangalore,Texas,India,Katie Jackson,jason69@example.org,763-911-8395,248867.51,45,Yes
+CUST0024,Russell-Carter,E-Commerce,Coimbatore,Rhode Island,India,Robin Harrison,jasmine09@example.net,218.612.6131,440801.81,30,Yes
+CUST0025,Willis-Allison,Retail,Bangalore,North Carolina,India,Kevin Barker,jeffreytorres@example.org,432-854-0032,478596.04,45,Yes
+CUST0026,"Craig, Martinez and Bryant",E-Commerce,Pune,Delaware,India,Michelle Arnold,barbara83@example.org,895-304-7423,76468.15,60,Yes
+CUST0027,Jones Ltd,E-Commerce,Lucknow,California,India,Elizabeth Rice,amberaguilar@example.org,(736)562-9422x575,273276.51,45,Yes
+CUST0028,Thomas Ltd,Wholesale,Surat,New Jersey,India,Amber Simpson,chad22@example.net,+1-391-561-8321x923,404839.17,60,Yes
+CUST0029,Robinson-Galloway,Industrial,Kanpur,Colorado,India,Terri Martin,taylor53@example.net,562-317-8203x194,433887.37,15,Yes
+CUST0030,Johnson Ltd,Industrial,Surat,Nevada,India,Jessica Lewis,rlopez@example.com,001-541-987-7991x818,406743.21,60,Yes
+CUST0031,"Simpson, Miller and Heath",Government,Pune,New Hampshire,India,Mark Silva,michellemerritt@example.net,(229)725-2784,143443.95,60,Yes
+CUST0032,Miller LLC,Government,Coimbatore,California,India,James Mosley,tiffanyjarvis@example.net,(729)467-4619x7910,236974.18,45,Yes
+CUST0033,Brady-Martinez,E-Commerce,Kolkata,Connecticut,India,Lucas Alvarado,hsloan@example.org,001-421-922-1345x572,234822.28,15,Yes
+CUST0034,Davis PLC,Industrial,Coimbatore,Michigan,India,Kenneth Andrade,khuff@example.net,+1-595-862-2961x151,398009.76,45,No
+CUST0035,Rhodes Ltd,Government,Bangalore,Washington,India,Brittany Peters,alexander17@example.org,+1-326-399-6983x78689,308703.47,15,Yes
+CUST0036,Taylor PLC,Wholesale,Nagpur,Washington,India,Robert Koch,jamesdavis@example.net,840-653-3937x1363,346712.05,15,Yes
+CUST0037,"Jones, Delgado and Wilson",Government,Bangalore,Wyoming,India,Thomas Nixon,garciabrent@example.net,001-257-422-6228x5412,455176.6,60,Yes
+CUST0038,Lloyd-Spencer,Retail,Jaipur,Maine,India,Brian Fisher,david96@example.com,001-890-757-0550,433966.53,15,Yes
+CUST0039,Owens-Martinez,Retail,Kanpur,Florida,India,Shannon Campbell,cruiz@example.org,001-255-678-8659x467,340469.89,45,No
+CUST0040,Johnston PLC,E-Commerce,Lucknow,Michigan,India,Tara Rich,gabriellawson@example.org,8796052404,146177.76,30,Yes
+CUST0041,"Miller, Bell and Murray",Government,Coimbatore,Arizona,India,Dylan Farmer,bthomas@example.net,259-632-2926x6461,359570.72,30,Yes
+CUST0042,"Silva, Roman and Allen",E-Commerce,Lucknow,Oregon,India,Sarah Garcia,scottrichardson@example.net,(849)232-9039x80733,398565.97,60,No
+CUST0043,"Trujillo, Warren and Wilson",Retail,Lucknow,Michigan,India,Bianca Marshall,amy66@example.org,4318154761,362265.37,15,No
+CUST0044,Chavez and Sons,Industrial,Jaipur,Missouri,India,Rebekah Thomas,anna17@example.com,2918955234,236670.99,30,No
+CUST0045,Davis-Camacho,Wholesale,Hyderabad,Georgia,India,Claudia Wheeler,tiffany92@example.org,(406)324-0856x689,383966.78,15,Yes
+CUST0046,"Mclaughlin, Morris and Andrade",Industrial,Jaipur,California,India,Erin Duran,williamsonvirginia@example.net,+1-244-347-9102,430915.65,60,No
+CUST0047,Douglas-Morris,Government,Kochi,Nevada,India,Stacy Lopez,garciamarissa@example.net,+1-764-928-0559x02958,457325.94,30,No
+CUST0048,Arnold PLC,Industrial,Nagpur,Pennsylvania,India,Tammy Smith,michael14@example.net,(313)347-0308x2121,243759.89,30,Yes
+CUST0049,Walker PLC,E-Commerce,Delhi,Tennessee,India,Cheryl Park,dolson@example.org,001-854-695-8231,422098.1,15,Yes
+CUST0050,Sullivan-Waters,Government,Nagpur,West Virginia,India,Tammy Zimmerman,fosterbrittany@example.com,+1-376-327-1954,285484.08,45,Yes
+CUST0051,Stanton Group,Industrial,Surat,Mississippi,India,Tyler Gonzalez,tpreston@example.net,001-320-675-3880x5640,478088.88,15,No
+CUST0052,Sanders LLC,Retail,Lucknow,Ohio,India,Andrea Simpson,dominguezalicia@example.org,+1-480-850-1601x97995,269615.82,15,Yes
+CUST0053,Johnson and Sons,E-Commerce,Nagpur,Iowa,India,Raymond Cook,lynchnatalie@example.com,+1-436-313-3197x13002,174019.93,45,Yes
+CUST0054,Williams PLC,Government,Kanpur,Missouri,India,Emily Curtis,michellegutierrez@example.org,(477)466-9481,121185.77,45,Yes
+CUST0055,Santos-Wright,Government,Kochi,Indiana,India,Megan Cain,colemanjeffrey@example.org,302-597-6846,214000.34,15,Yes
+CUST0056,Smith-Miles,Industrial,Surat,Missouri,India,Andrew Thompson,lburke@example.net,+1-770-979-7940,207744.17,60,Yes
+CUST0057,Duran-Ferguson,Government,Coimbatore,Indiana,India,Michelle Willis,shawnapennington@example.com,9773115451,70396.13,45,Yes
+CUST0058,"Smith, Hill and Orr",E-Commerce,Kanpur,Wyoming,India,Robert Castillo,asantiago@example.net,+1-659-275-5444x985,461763.34,15,Yes
+CUST0059,"Gibson, Barr and Perez",Industrial,Chennai,Connecticut,India,Ralph Brown,scottapril@example.net,983-434-8127,12341.19,45,Yes
+CUST0060,"Saunders, Castillo and Andrews",Government,Pune,Mississippi,India,Robin Cain,nicholascollins@example.org,488-991-5878,211045.76,30,Yes
+CUST0061,Moore-Russo,Retail,Chennai,Maine,India,Charles Wade,marshallamber@example.com,(903)558-6878x8683,366026.6,45,Yes
+CUST0062,Miller Inc,Government,Nagpur,Illinois,India,Christopher Smith,operez@example.org,(275)673-5980x97208,496007.02,60,Yes
+CUST0063,"Gray, Lee and Williams",E-Commerce,Kolkata,Montana,India,Duane Rivera,angela87@example.net,+1-914-945-3854,266786.76,30,Yes
+CUST0064,Mckenzie-Clark,E-Commerce,Jaipur,Nebraska,India,Benjamin Church,twallace@example.org,264-737-8260x398,334244.33,45,Yes
+CUST0065,Leonard-Harris,Wholesale,Ahmedabad,Oklahoma,India,Anthony Garcia,joshuacharles@example.net,001-587-689-5262x933,462726.21,45,Yes
+CUST0066,Perez-Willis,E-Commerce,Kanpur,Florida,India,Jessica Shepard,zvargas@example.com,001-493-627-1674x076,247857.45,30,Yes
+CUST0067,Randolph and Sons,Retail,Nagpur,Louisiana,India,Patricia Roberts,dreed@example.net,001-926-521-8952x0712,427821.21,60,Yes
+CUST0068,"Foster, Yoder and Strickland",Government,Kolkata,Ohio,India,Terry Adkins,wellsmichelle@example.org,001-491-980-5351x099,319224.13,45,Yes
+CUST0069,Wright-Guzman,Government,Kanpur,Maryland,India,Ellen Myers,nphillips@example.org,001-472-979-5092x8445,470427.77,60,Yes
+CUST0070,Jones Group,Government,Kochi,Maryland,India,Ryan Reed,christopherfuller@example.org,(413)715-2128x457,42794.13,15,Yes
+CUST0071,Black-Shannon,Wholesale,Surat,South Dakota,India,Jeffrey Howard Jr.,coleroberts@example.com,(565)924-1026x42723,374979.47,30,Yes
+CUST0072,Riley Inc,E-Commerce,Chennai,South Carolina,India,James Jimenez,katherine61@example.org,(912)822-7764x996,400086.48,60,No
+CUST0073,Browning and Sons,Retail,Jaipur,Montana,India,Mikayla Nelson,teresaruiz@example.net,817-644-0033x534,168668.15,60,Yes
+CUST0074,Martin-Garcia,Retail,Ahmedabad,Nebraska,India,Brian Henry,wendy34@example.com,001-380-415-2240x1262,151843.13,30,Yes
+CUST0075,Barton LLC,Industrial,Chennai,Wisconsin,India,Alexandria Woods,hwagner@example.com,207-335-2576,481876.25,30,Yes
+CUST0076,Ruiz and Sons,Government,Nagpur,Wyoming,India,Danny Mcguire,millerdustin@example.net,725-589-7214,38847.48,45,Yes
+CUST0077,"Hill, Flores and Patel",Wholesale,Kochi,Michigan,India,Emily Holmes,hpierce@example.net,(540)468-7110,58805.28,60,No
+CUST0078,Molina-Moore,Government,Pune,Minnesota,India,Amy Larson,madison17@example.net,764.306.0013x8912,82353.13,15,No
+CUST0079,"Wong, White and Goodman",Retail,Delhi,Tennessee,India,Fernando Cox,natalievaldez@example.com,798.595.6899x0103,441859.77,60,Yes
+CUST0080,"Matthews, Kaiser and Young",Government,Kolkata,Texas,India,Kristine Gonzalez,qlittle@example.net,001-693-323-2945x9203,114365.49,45,Yes
+CUST0081,Swanson and Sons,Government,Coimbatore,Alaska,India,Courtney Hernandez,rachaeljackson@example.net,001-473-628-8886x4411,400411.02,45,Yes
+CUST0082,Harris-Brown,Government,Delhi,California,India,Eric Jackson,lgreen@example.net,+1-636-800-2579x276,289040.22,15,Yes
+CUST0083,Hill Group,Wholesale,Jaipur,Texas,India,Sabrina Burns,stricklandjessica@example.com,789-516-2127x4436,278401.44,15,No
+CUST0084,Sanchez-Erickson,Government,Ahmedabad,Arizona,India,Susan Allen,emilyday@example.org,595.850.9640,204843.25,30,No
+CUST0085,"Lewis, Foster and Adkins",Retail,Delhi,Minnesota,India,David Cole,laurawelch@example.org,531.323.6766,371738.86,45,Yes
+CUST0086,"Johnson, Williams and Davis",Retail,Kolkata,Oklahoma,India,Lisa Allen,rickcurry@example.net,8982271834,323771.31,30,Yes
+CUST0087,Fry Ltd,Industrial,Jaipur,Arkansas,India,Stephanie Gross,burgessjames@example.org,484.990.7351x940,161400.5,60,Yes
+CUST0088,"Hancock, Allen and Jackson",Government,Delhi,New Hampshire,India,Karla Crawford,boonejames@example.org,+1-799-339-2707x6719,174377.1,15,Yes
+CUST0089,Moses Group,Government,Nagpur,New Jersey,India,Sherry Martin,justingriffith@example.org,7323771961,239022.64,30,Yes
+CUST0090,Holmes Inc,Wholesale,Kolkata,Maryland,India,Denise Williams,ubaker@example.net,+1-342-300-0843x1862,313973.68,60,Yes
+CUST0091,Riley Group,Industrial,Kanpur,Michigan,India,Jorge King,ajoseph@example.org,393-811-8703,399814.2,45,Yes
+CUST0092,"Cruz, Johnson and Lewis",Wholesale,Kolkata,North Dakota,India,Monique Garcia,nicholas89@example.com,(356)392-6296x49564,456040.31,30,Yes
+CUST0093,"Maldonado, Arnold and Navarro",Retail,Kanpur,Virginia,India,Christine Miller,hillkaren@example.net,001-449-543-0714x8330,315678.02,60,Yes
+CUST0094,"James, Lee and Ho",Retail,Coimbatore,New York,India,Melissa Jensen,snyderbrian@example.org,226.230.4843,76182.37,15,No
+CUST0095,Nielsen-White,Government,Ahmedabad,Tennessee,India,Brianna Gonzalez,matthew80@example.org,899-373-5302,223359.16,45,Yes
+CUST0096,Edwards and Sons,Retail,Pune,New Mexico,India,Kimberly Hill,brucevaughn@example.com,+1-645-299-9679x563,124812.75,30,Yes
+CUST0097,Lynch-Sosa,Wholesale,Lucknow,Illinois,India,Jonathan Snyder,pharris@example.org,001-306-948-8181,486101.06,15,No
+CUST0098,Edwards LLC,E-Commerce,Hyderabad,Louisiana,India,Carlos Barrett,jerry66@example.com,703.248.2822x73150,118414.78,30,Yes
+CUST0099,Robertson Inc,E-Commerce,Kanpur,West Virginia,India,Christina Boyd,wlopez@example.net,636-305-4600x71421,222824.63,15,No
+CUST0100,Garcia and Sons,E-Commerce,Lucknow,Montana,India,Nancy Roth,christinafields@example.net,789-718-2001,15893.01,15,Yes
+CUST0101,Castillo-Chandler,E-Commerce,Chennai,Kansas,India,Janice Jackson,melissamartin@example.com,261.472.3427x4261,477249.95,60,Yes
+CUST0102,"Stevens, Simmons and Oliver",Wholesale,Mumbai,Montana,India,Edward Bailey,perkinsjanice@example.net,001-211-964-1843x544,119553.23,60,No
+CUST0103,Carter-Schneider,Industrial,Pune,North Dakota,India,Rachel Richards,aholmes@example.com,2885286655,172801.75,45,Yes
+CUST0104,"Gay, Love and Cooper",Government,Mumbai,Colorado,India,Daniel Pratt,kara38@example.com,791.565.9723x6029,164498.4,15,No
+CUST0105,Brooks-Hernandez,Retail,Kanpur,Arizona,India,Tamara Rice,randy27@example.org,+1-467-358-9776,180412.5,45,No
+CUST0106,Gutierrez and Sons,Retail,Pune,West Virginia,India,Katherine Wright,jillfarrell@example.com,482.770.5255x6784,482369.66,30,Yes
+CUST0107,Wilson-Reed,Retail,Jaipur,Louisiana,India,Nancy Perez,brianday@example.com,879.541.9790,205254.06,60,Yes
+CUST0108,Mccoy-Clark,Industrial,Mumbai,Virginia,India,Judy Cruz,wcastillo@example.com,001-841-527-2941x901,72086.61,30,Yes
+CUST0109,"Shelton, White and Anderson",E-Commerce,Surat,Arkansas,India,Kathryn Morris,jrobinson@example.net,(485)253-8027,420311.83,60,Yes
+CUST0110,"Archer, Morris and Scott",Industrial,Jaipur,New Jersey,India,Sheila Jordan,marthafrench@example.net,+1-446-268-9508x303,204601.63,30,No
+CUST0111,"Hernandez, Baker and Ellis",Wholesale,Pune,Nebraska,India,Cameron Baker Jr.,sheilaromero@example.com,+1-574-821-2124x099,221133.94,15,No
+CUST0112,Rich-Cooper,Wholesale,Pune,Nebraska,India,Brooke Willis,brittany84@example.org,(790)230-2756,336100.92,15,Yes
+CUST0113,Townsend PLC,Retail,Ahmedabad,Idaho,India,Daniel Green,hpearson@example.net,294.400.1362x819,402165.85,60,Yes
+CUST0114,Lopez-Huynh,Retail,Coimbatore,North Carolina,India,Alyssa Austin MD,johnsonnicholas@example.com,219.564.9998,296664.81,60,Yes
+CUST0115,Mcclure LLC,E-Commerce,Pune,California,India,Timothy Daniel,mhill@example.org,2656651199,116761.0,30,No
+CUST0116,York-Moran,Wholesale,Hyderabad,Tennessee,India,Kelly Alvarado,rebeccascott@example.org,(262)732-5331x920,384963.3,45,Yes
+CUST0117,Lawson Inc,E-Commerce,Lucknow,West Virginia,India,Andrea Valenzuela,jhawkins@example.org,+1-703-604-3275x7553,19748.03,15,No
+CUST0118,"Lester, Carroll and Figueroa",Government,Kanpur,Colorado,India,Heather West,annevalencia@example.com,8774082196,88156.77,30,Yes
+CUST0119,Livingston LLC,Government,Nagpur,Texas,India,Kevin Campos,annarichards@example.net,245-941-7863x72539,53698.03,45,No
+CUST0120,Bridges Group,Retail,Pune,New York,India,Tracey Jacobson,gperry@example.com,(500)673-4049x8672,82861.53,60,Yes
+CUST0121,"Taylor, Stein and Martin",Wholesale,Delhi,Michigan,India,William Casey,hannahmorris@example.net,853.335.9540x95688,408079.85,30,Yes
+CUST0122,Shaw PLC,Government,Chennai,Ohio,India,Gregory Pearson,beckbrendan@example.net,471.347.1304x33740,373316.39,15,Yes
+CUST0123,Gomez-Ford,Retail,Hyderabad,New York,India,Wayne Fry,mccallshawn@example.org,247-812-2694x269,268732.49,15,Yes
+CUST0124,West-Lopez,E-Commerce,Kanpur,Idaho,India,Gail King,jacksnyder@example.org,304.857.5845,226936.97,45,Yes
+CUST0125,"Morris, Harris and Watkins",E-Commerce,Surat,Delaware,India,Diane Warner,ole@example.org,434-308-2153,441063.64,45,Yes
+CUST0126,Carlson-Greer,Government,Nagpur,Connecticut,India,Janice Arroyo,kimberly24@example.org,001-251-496-0230,397554.35,45,Yes
+CUST0127,"Kelley, White and Patterson",Wholesale,Kochi,Utah,India,Sandra Harrison,nguyenconnie@example.org,+1-780-980-2745x507,206906.49,15,No
+CUST0128,Smith Ltd,E-Commerce,Bangalore,Oklahoma,India,Shannon Daniel,karenrichmond@example.org,8145580786,14060.13,15,Yes
+CUST0129,Anderson and Sons,Industrial,Jaipur,South Carolina,India,Chase Hines,nancymejia@example.org,(707)981-1591x327,275501.52,15,Yes
+CUST0130,"Fitzpatrick, Gray and Fisher",E-Commerce,Chennai,Louisiana,India,Katherine Wright,bobbysmith@example.org,963.284.4801x3454,277787.96,45,Yes
+CUST0131,Flores PLC,Wholesale,Bangalore,Vermont,India,Barbara Huber,alexandermarshall@example.org,(986)258-4598x469,148483.63,15,Yes
+CUST0132,Lucas Group,Retail,Jaipur,Texas,India,Cynthia Fisher,thomas69@example.net,3085029285,421035.93,15,Yes
+CUST0133,Alexander LLC,Industrial,Kolkata,Maryland,India,John Perez,lori71@example.org,001-308-853-4364,490654.92,30,Yes
+CUST0134,"Greer, Adams and Gonzalez",E-Commerce,Kanpur,California,India,Derek Hill,mstevenson@example.com,+1-331-733-7844x895,413564.91,60,Yes
+CUST0135,Fernandez Inc,Wholesale,Mumbai,Maine,India,Jorge Myers,ifrench@example.org,641-982-3227x10236,391167.75,15,Yes
+CUST0136,Rodriguez-Cisneros,Government,Kanpur,Alaska,India,Samuel Bartlett,jeannegriffith@example.com,217.564.0524,213272.16,45,No
+CUST0137,Price Inc,Retail,Kochi,Michigan,India,Alyssa Cook,mary78@example.org,547-289-6410x75473,77177.41,15,Yes
+CUST0138,Black-Rivera,Industrial,Kochi,Ohio,India,Emma Miller,susangilbert@example.net,611.857.0195x367,220780.61,60,No
+CUST0139,Warren-Kelly,Industrial,Delhi,South Carolina,India,Gregory Martinez DDS,jacobstimothy@example.org,(632)561-6467x4210,257802.87,30,Yes
+CUST0140,"Schmidt, Delgado and Warren",E-Commerce,Jaipur,Mississippi,India,Jacqueline Scott,eguzman@example.org,439.918.6331,433335.52,60,Yes
+CUST0141,Fisher Inc,Retail,Ahmedabad,Alaska,India,Kelly Erickson,adkinsdiana@example.org,001-809-609-3791x63576,410940.74,45,Yes
+CUST0142,"Manning, Torres and Ellison",E-Commerce,Kochi,Maine,India,Carol Larson,kennethponce@example.com,(257)457-7428,348218.74,45,Yes
+CUST0143,Brewer and Sons,Wholesale,Kolkata,Hawaii,India,Christopher Austin,uramirez@example.org,001-638-314-9130x835,12204.94,30,Yes
+CUST0144,Alvarado LLC,Wholesale,Bangalore,Utah,India,David Barton,payneangela@example.net,+1-865-896-1615x6621,48727.13,45,No
+CUST0145,Nicholson-Johnson,Industrial,Kolkata,Minnesota,India,Angela Reid,holmeskendra@example.net,469-575-7119x3121,484622.99,45,No
+CUST0146,Harper Ltd,Retail,Nagpur,Idaho,India,Richard James,yperry@example.com,001-258-356-9305,215589.18,45,No
+CUST0147,"Castro, Stanley and Cardenas",E-Commerce,Lucknow,Arizona,India,Kristy Garcia,esmith@example.net,001-345-457-5101x8220,57310.03,15,Yes
+CUST0148,Garcia-Carter,E-Commerce,Surat,Florida,India,John Phillips IV,walkerjessica@example.org,699.901.2539x07775,179228.16,15,Yes
+CUST0149,Ochoa-Randolph,Wholesale,Kochi,Louisiana,India,Emily Herring,lisa32@example.net,(508)781-6537,255641.62,60,Yes
+CUST0150,Goodman LLC,Retail,Kolkata,Georgia,India,Melissa Lopez,thomaslindsey@example.org,(232)716-9441x21131,142628.31,15,No
+CUST0151,"Shaw, Henderson and Mills",Wholesale,Kochi,Washington,India,Dr. Rebecca Orozco,lisaparker@example.org,001-810-443-2900,364813.9,45,Yes
+CUST0152,"Simmons, Jenkins and Gonzales",Wholesale,Nagpur,Nebraska,India,Dale Huffman,samuel18@example.org,448-487-5580,72268.29,30,Yes
+CUST0153,"Morales, Wiggins and Phelps",Government,Delhi,Kentucky,India,Linda Porter,jonathanmendez@example.net,(819)654-5902x96691,496676.62,60,No
+CUST0154,"Williams, Lowery and Thomas",Industrial,Mumbai,Delaware,India,Joseph Figueroa,williamsjennifer@example.com,268-333-0819x407,459258.49,60,Yes
+CUST0155,Rios LLC,Wholesale,Lucknow,Louisiana,India,Megan Clark,julierobertson@example.com,001-655-505-8916x90671,434539.47,45,Yes
+CUST0156,Skinner Ltd,Government,Hyderabad,Virginia,India,Sara Mueller,mikayla20@example.org,+1-688-427-2090x087,167091.5,60,Yes
+CUST0157,Brown Group,E-Commerce,Kanpur,Alabama,India,Katie Andrews,julie31@example.org,(576)395-3739,16527.35,45,Yes
+CUST0158,Sandoval-Silva,E-Commerce,Bangalore,Wyoming,India,Kevin Phillips,anthony58@example.org,648-832-5755x4588,163023.11,15,Yes
+CUST0159,Erickson Inc,Industrial,Hyderabad,Vermont,India,Casey Anderson,kristinegraham@example.com,001-394-330-3159x8495,320409.74,45,Yes
+CUST0160,Edwards Group,Government,Jaipur,Michigan,India,Michele Hopkins,kimashley@example.net,789.837.1475x74084,269896.33,15,Yes
+CUST0161,Taylor Group,Retail,Kolkata,Oregon,India,Mark Clark,jmelendez@example.net,686-711-4979x97185,309837.15,45,No
+CUST0162,Miller-Terrell,E-Commerce,Bangalore,Connecticut,India,John Leonard,kayla76@example.org,699.886.0352x1407,97112.16,60,Yes
+CUST0163,"Contreras, Patton and Bullock",Government,Kolkata,Illinois,India,Katie Cox,mccannamanda@example.com,001-345-684-7156x332,347286.3,30,Yes
+CUST0164,Grant LLC,Government,Jaipur,Kentucky,India,Krista Newman,jennifercamacho@example.net,+1-203-958-0284,125618.61,30,No
+CUST0165,Harris and Sons,Industrial,Bangalore,Colorado,India,Catherine Snow,horntracy@example.net,001-818-201-0731x14651,453829.71,15,Yes
+CUST0166,Daugherty PLC,E-Commerce,Kanpur,Illinois,India,Alison Herrera,walterhanna@example.com,(599)644-5849,307594.95,45,Yes
+CUST0167,"Mcconnell, Young and Ortiz",Government,Coimbatore,Mississippi,India,Sara Gomez,kristinerichardson@example.net,+1-602-580-7881x2919,284901.61,15,Yes
+CUST0168,Lopez-Griffin,Wholesale,Kochi,Michigan,India,Michelle Mccann,joshuamoore@example.org,638-780-9489x827,261821.72,15,No
+CUST0169,Gill-Mccullough,Government,Mumbai,Alaska,India,Victor Ho,parkbrenda@example.com,309.686.1871x1001,342192.52,15,No
+CUST0170,Gray-Perez,Wholesale,Surat,Pennsylvania,India,Kendra Davila,vandrade@example.org,7447324244,155138.28,15,Yes
+CUST0171,"Jones, Ruiz and Singleton",Government,Lucknow,Louisiana,India,Paul Gibson,fpoole@example.net,+1-828-758-9998,381616.24,45,Yes
+CUST0172,Mathews-Frost,Government,Bangalore,Oregon,India,Tina Sullivan,sean12@example.net,(917)501-2410,390703.06,30,Yes
+CUST0173,Roberts-Rogers,Retail,Kochi,Ohio,India,Derek Potter,keithreyes@example.org,001-639-271-1810x6857,421080.36,45,Yes
+CUST0174,"Jackson, Humphrey and Brown",E-Commerce,Mumbai,West Virginia,India,Austin Hubbard,jessica03@example.org,476.444.8507,25018.87,30,Yes
+CUST0175,Smith-Daugherty,Wholesale,Kanpur,New York,India,Stephanie Bush,chapmanrussell@example.org,001-232-482-4908x66687,353108.6,60,No
+CUST0176,Mosley-Benjamin,Government,Coimbatore,Florida,India,Kristen Jimenez,david49@example.net,001-515-759-4920,290828.1,15,No
+CUST0177,Smith-Wilson,Government,Lucknow,North Dakota,India,Aaron Mcpherson,xoliver@example.com,(891)797-7870,248312.67,45,No
+CUST0178,Barnes and Sons,Government,Lucknow,Georgia,India,Donald Johnson,david50@example.org,296-773-1526x592,321027.34,15,Yes
+CUST0179,"Cook, Walker and Ramsey",Retail,Lucknow,Pennsylvania,India,Tiffany Klein,xlutz@example.org,+1-424-857-9065x42151,437516.53,45,Yes
+CUST0180,Brown-Reyes,E-Commerce,Bangalore,Florida,India,Janet Beasley,swood@example.org,522.329.0197,259555.47,30,No
+CUST0181,"Brown, Townsend and Clark",E-Commerce,Delhi,Alaska,India,Beth Gray,tboyd@example.net,(433)895-3102x91755,203197.51,15,No
+CUST0182,"Burch, Page and Rogers",Government,Kanpur,Maine,India,Richard Perkins,dhunter@example.org,3998536225,243082.19,45,Yes
+CUST0183,Harris-Santana,Wholesale,Coimbatore,Oklahoma,India,Connie Kramer,catherinehall@example.com,001-683-894-5008x7449,467265.52,45,Yes
+CUST0184,Fletcher PLC,Wholesale,Pune,Massachusetts,India,Carly Cobb,skinnershannon@example.org,411.676.4278x288,113754.2,30,Yes
+CUST0185,Sanders LLC,Wholesale,Hyderabad,Arkansas,India,Teresa Clark,ibenitez@example.net,221-467-3675,72792.87,60,No
+CUST0186,"Porter, Vazquez and Morgan",Government,Nagpur,Hawaii,India,Clinton James,ybradley@example.com,381-873-9457x11761,98914.46,60,Yes
+CUST0187,"Burns, Whitaker and Cross",Industrial,Ahmedabad,Montana,India,Amanda Smith,riceadriana@example.com,687-209-7534,340481.87,15,Yes
+CUST0188,Carpenter Group,Retail,Lucknow,Illinois,India,Robyn Cole,amandacordova@example.com,819.958.7963,404217.44,45,Yes
+CUST0189,Lane-Alexander,Retail,Mumbai,Florida,India,Brandon Watts,susan38@example.com,909-601-6468x08372,468485.52,45,Yes
+CUST0190,Blair PLC,Government,Chennai,Louisiana,India,Gabrielle Powell,davidchoi@example.com,495-765-2826x004,121364.4,60,Yes
+CUST0191,"Evans, Cook and Morris",E-Commerce,Bangalore,Pennsylvania,India,Jessica Snyder,cochrannathan@example.net,+1-736-303-7924,295393.55,60,No
+CUST0192,"Hamilton, Gibson and Winters",E-Commerce,Coimbatore,California,India,Katie Haley DDS,paulcampbell@example.org,8145831022,257694.06,45,Yes
+CUST0193,Buchanan-Dunn,Retail,Nagpur,Arkansas,India,Marcus Davidson,madison81@example.net,912.835.6926x9779,376558.74,45,No
+CUST0194,"Garcia, Lopez and Sanchez",Industrial,Kochi,Wyoming,India,Greg Ali,deborahbowman@example.org,(204)268-1666,347149.99,30,Yes
+CUST0195,Ali-Olson,E-Commerce,Nagpur,Mississippi,India,James Warren,michaelwashington@example.net,+1-950-727-2522x91447,301088.88,60,No
+CUST0196,Green LLC,Retail,Kochi,North Dakota,India,Casey Reeves,jordannicholas@example.org,805.889.7673,197826.19,30,Yes
+CUST0197,"Barnes, Mejia and Koch",E-Commerce,Pune,Ohio,India,Garrett Guzman,littlethomas@example.com,+1-398-682-0157x60223,128260.05,15,Yes
+CUST0198,Mercado LLC,Industrial,Hyderabad,New York,India,Sergio Martin,ysmith@example.net,868.645.2091x937,209578.15,60,No
+CUST0199,Moses-Jones,E-Commerce,Hyderabad,Colorado,India,Christopher Johnston,wgonzalez@example.org,(780)524-5808x3087,211639.6,60,No
+CUST0200,Mccarthy-Thornton,E-Commerce,Lucknow,Ohio,India,Lydia Bell,leeanthony@example.org,001-914-239-1285x2887,398622.04,60,Yes

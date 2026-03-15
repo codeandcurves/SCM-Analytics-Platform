@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Price,Unit_Cost,Lead_Time_Days,Reorder_Point,Safety_Stock,UOM
+PRD0001,Sensors Physical 1,Electronics,Sensors,3710.34,738.45,5,23,48,BOX
+PRD0002,Plastic Song 2,Raw Materials,Plastic,4323.12,2900.83,9,54,46,BOX
+PRD0003,Adhesives Behavior 3,Consumables,Adhesives,4021.49,597.47,4,79,19,PCS
+PRD0004,Sensors Black 4,Electronics,Sensors,1617.34,449.26,5,45,44,BOX
+PRD0005,Chemicals Next 5,Consumables,Chemicals,1210.42,1252.62,22,95,10,BOX
+PRD0006,Chemicals Letter 6,Consumables,Chemicals,969.4,743.32,18,48,19,LTR
+PRD0007,Chemicals Now 7,Consumables,Chemicals,3299.83,52.12,18,80,31,KG
+PRD0008,Bearings Sign 8,Spare Parts,Bearings,3084.59,2355.62,27,36,8,BOX
+PRD0009,Displays Create 9,Electronics,Displays,2934.73,2752.7,3,12,9,PCS
+PRD0010,Filters Especially 10,Spare Parts,Filters,2761.16,1036.03,27,43,49,KG
+PRD0011,Adhesives Score 11,Consumables,Adhesives,1875.71,323.44,29,31,36,PCS
+PRD0012,Belts Strategy 12,Spare Parts,Belts,4408.94,124.51,21,51,11,BOX
+PRD0013,Adhesives Second 13,Consumables,Adhesives,4659.9,776.86,1,62,12,LTR
+PRD0014,Lubricants Mother 14,Consumables,Lubricants,480.49,1383.81,5,27,21,LTR
+PRD0015,Plastic Security 15,Raw Materials,Plastic,681.38,2085.39,9,52,38,MTR
+PRD0016,Filters War 16,Spare Parts,Filters,3671.73,1265.94,26,47,23,PCS
+PRD0017,Chemicals Position 17,Consumables,Chemicals,898.52,1123.59,15,34,45,LTR
+PRD0018,Steel Late 18,Raw Materials,Steel,74.36,1556.92,12,72,31,LTR
+PRD0019,Controllers Yard 19,Electronics,Controllers,4716.38,2174.08,5,40,12,BOX
+PRD0020,Filters Space 20,Spare Parts,Filters,4041.09,1027.3,30,33,18,PCS
+PRD0021,Aluminium Challenge 21,Raw Materials,Aluminium,238.64,2012.98,15,45,46,KG
+PRD0022,Boxes Special 22,Packaging,Boxes,1820.46,225.82,1,81,12,PCS
+PRD0023,Controllers Source 23,Electronics,Controllers,1623.61,49.91,21,50,5,MTR
+PRD0024,Adhesives Nice 24,Consumables,Adhesives,1118.49,1188.96,18,68,25,PCS
+PRD0025,Pallets Word 25,Packaging,Pallets,2111.07,996.98,2,30,47,PCS
+PRD0026,Controllers Already 26,Electronics,Controllers,2796.29,2873.06,30,24,8,LTR
+PRD0027,Plastic Machine 27,Raw Materials,Plastic,860.35,1718.7,14,40,40,MTR
+PRD0028,Pallets Somebody 28,Packaging,Pallets,3188.13,2119.03,10,10,11,PCS
+PRD0029,Chemicals News 29,Consumables,Chemicals,958.78,626.39,27,70,37,LTR
+PRD0030,Adhesives Attack 30,Consumables,Adhesives,4593.93,2713.26,12,26,30,BOX
+PRD0031,Wrapping Herself 31,Packaging,Wrapping,3578.26,1424.24,11,63,16,PCS
+PRD0032,Pallets Season 32,Packaging,Pallets,762.23,936.72,22,71,7,LTR
+PRD0033,Wrapping Owner 33,Packaging,Wrapping,2415.44,1454.58,13,11,47,KG
+PRD0034,Sensors Newspaper 34,Electronics,Sensors,4238.6,536.19,1,26,38,PCS
+PRD0035,Steel Image 35,Raw Materials,Steel,2218.25,127.11,18,29,47,LTR
+PRD0036,Controllers Among 36,Electronics,Controllers,2595.06,57.3,24,31,25,LTR
+PRD0037,Pallets Happy 37,Packaging,Pallets,1693.2,69.93,13,30,24,BOX
+PRD0038,Chemicals Get 38,Consumables,Chemicals,1808.04,1297.98,20,42,13,LTR
+PRD0039,Controllers Most 39,Electronics,Controllers,3144.28,1471.23,4,70,32,MTR
+PRD0040,Boxes Garden 40,Packaging,Boxes,3489.93,1520.0,14,61,31,BOX
+PRD0041,Plastic Question 41,Raw Materials,Plastic,4208.92,1652.87,18,20,50,BOX
+PRD0042,Wrapping Medical 42,Packaging,Wrapping,3184.88,1556.28,20,66,9,MTR
+PRD0043,Chemicals Inside 43,Consumables,Chemicals,4966.02,1744.63,3,47,23,BOX
+PRD0044,Plastic Charge 44,Raw Materials,Plastic,3134.07,1525.07,26,14,49,MTR
+PRD0045,Controllers Scientist 45,Electronics,Controllers,3626.68,1391.77,24,73,19,PCS
+PRD0046,Controllers Wide 46,Electronics,Controllers,3056.69,1508.0,26,85,24,BOX
+PRD0047,Pallets Final 47,Packaging,Pallets,1297.86,1216.29,13,26,45,PCS
+PRD0048,Adhesives Form 48,Consumables,Adhesives,2799.75,2618.68,13,11,24,KG
+PRD0049,Controllers Yourself 49,Electronics,Controllers,1070.46,1141.55,9,26,30,PCS
+PRD0050,Aluminium Reason 50,Raw Materials,Aluminium,1912.62,909.75,15,33,12,PCS
+PRD0051,Sensors Tree 51,Electronics,Sensors,2110.12,1685.98,13,49,24,BOX
+PRD0052,Displays Tell 52,Electronics,Displays,4858.41,1853.67,23,55,16,BOX
+PRD0053,Bearings Sister 53,Spare Parts,Bearings,2816.55,1661.97,20,68,24,MTR
+PRD0054,Chemicals Measure 54,Consumables,Chemicals,3658.33,1829.56,29,94,45,KG
+PRD0055,Controllers Shake 55,Electronics,Controllers,1088.78,1387.13,7,14,46,MTR
+PRD0056,Displays Religious 56,Electronics,Displays,1966.0,1257.83,26,59,27,MTR
+PRD0057,Chemicals Wide 57,Consumables,Chemicals,4906.51,2681.04,6,81,38,LTR
+PRD0058,Filters Customer 58,Spare Parts,Filters,706.89,1401.08,5,57,49,LTR
+PRD0059,Wrapping Claim 59,Packaging,Wrapping,2580.04,1855.66,28,74,35,MTR
+PRD0060,Aluminium Often 60,Raw Materials,Aluminium,4529.66,1205.03,30,82,39,KG
+PRD0061,Chemicals While 61,Consumables,Chemicals,145.59,1126.5,7,97,5,KG
+PRD0062,Belts Technology 62,Spare Parts,Belts,1284.22,324.0,6,42,24,LTR
+PRD0063,Steel Democrat 63,Raw Materials,Steel,4575.75,2969.08,27,64,32,LTR
+PRD0064,Boxes Offer 64,Packaging,Boxes,1528.35,1504.29,10,48,44,MTR
+PRD0065,Belts Voice 65,Spare Parts,Belts,4696.01,2751.46,7,56,28,BOX
+PRD0066,Displays During 66,Electronics,Displays,1485.58,2272.03,7,96,44,KG
+PRD0067,Lubricants Campaign 67,Consumables,Lubricants,2944.43,1268.84,15,100,14,BOX
+PRD0068,Belts Establish 68,Spare Parts,Belts,769.95,971.53,20,73,29,LTR
+PRD0069,Displays Development 69,Electronics,Displays,1433.34,779.99,29,20,38,PCS
+PRD0070,Lubricants If 70,Consumables,Lubricants,2632.52,2070.78,19,92,42,BOX
+PRD0071,Steel Seven 71,Raw Materials,Steel,687.21,2137.24,29,43,16,BOX
+PRD0072,Boxes Return 72,Packaging,Boxes,1668.38,1925.13,12,35,8,KG
+PRD0073,Bearings Himself 73,Spare Parts,Bearings,4643.43,982.26,9,63,6,LTR
+PRD0074,Pallets Send 74,Packaging,Pallets,4189.13,2168.22,17,48,11,BOX
+PRD0075,Wrapping Ever 75,Packaging,Wrapping,1534.55,413.94,11,41,35,KG
+PRD0076,Boxes And 76,Packaging,Boxes,2008.76,1480.66,5,100,8,MTR
+PRD0077,Sensors Particularly 77,Electronics,Sensors,645.7,116.88,8,46,7,LTR
+PRD0078,Sensors Place 78,Electronics,Sensors,3339.44,2250.79,3,51,32,KG
+PRD0079,Pallets Perhaps 79,Packaging,Pallets,3243.13,1909.7,8,54,22,KG
+PRD0080,Sensors Relationship 80,Electronics,Sensors,202.98,625.58,28,36,21,LTR
+PRD0081,Bearings Religious 81,Spare Parts,Bearings,2414.08,1645.19,9,97,35,PCS
+PRD0082,Adhesives By 82,Consumables,Adhesives,3161.39,1332.12,10,75,28,LTR
+PRD0083,Aluminium Some 83,Raw Materials,Aluminium,3433.07,846.03,11,82,27,MTR
+PRD0084,Wrapping Final 84,Packaging,Wrapping,1046.01,2807.14,2,36,33,KG
+PRD0085,Wrapping Decide 85,Packaging,Wrapping,4254.94,2122.87,25,81,50,LTR
+PRD0086,Filters Result 86,Spare Parts,Filters,1805.94,572.8,12,100,13,MTR
+PRD0087,Steel Include 87,Raw Materials,Steel,2218.99,513.11,21,10,40,LTR
+PRD0088,Belts Place 88,Spare Parts,Belts,3141.65,2801.65,9,57,41,PCS
+PRD0089,Controllers Bad 89,Electronics,Controllers,4237.75,1421.88,23,33,27,BOX
+PRD0090,Sensors Ask 90,Electronics,Sensors,3139.3,739.72,18,71,40,PCS
+PRD0091,Adhesives Stop 91,Consumables,Adhesives,4316.09,2899.75,5,46,34,PCS
+PRD0092,Belts Gas 92,Spare Parts,Belts,2345.24,2903.22,28,77,39,BOX
+PRD0093,Wrapping Official 93,Packaging,Wrapping,1895.09,1516.4,4,12,27,KG
+PRD0094,Bearings Start 94,Spare Parts,Bearings,2097.14,2127.86,22,83,16,KG
+PRD0095,Aluminium Growth 95,Raw Materials,Aluminium,453.32,16.55,9,42,17,MTR
+PRD0096,Displays Choose 96,Electronics,Displays,4666.13,610.31,21,82,46,KG
+PRD0097,Displays Prepare 97,Electronics,Displays,1109.0,837.49,29,82,16,PCS
+PRD0098,Steel Trade 98,Raw Materials,Steel,1182.85,152.7,20,27,17,PCS
+PRD0099,Controllers Sound 99,Electronics,Controllers,3950.54,381.78,28,60,26,PCS
+PRD0100,Bearings Student 100,Spare Parts,Bearings,3938.86,1632.62,12,19,25,MTR

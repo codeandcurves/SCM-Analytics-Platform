@@ -1,0 +1,31 @@
+Supplier_ID,Supplier_Name,Country,City,Supplier_Type,Contact_Person,Email,Phone,Rating,Payment_Terms_Days,On_Time_Delivery_Rate,Active
+SUP001,Thompson-Moore,Vietnam,Rebeccatown,Wholesaler,Tyler Padilla,rogersevan@example.org,702-376-9857x38439,3.9,60,99.7,Yes
+SUP002,"Villarreal, Lester and Terrell",Germany,Skinnerport,Manufacturer,Barbara Waters,yortiz@example.org,251-978-7626x521,4.4,30,70.4,Yes
+SUP003,Massey-Carson,Japan,Ericfort,Wholesaler,Debra Smith,erika57@example.org,626.624.3601,2.5,30,94.2,Yes
+SUP004,Garza LLC,India,Zacharyfurt,Wholesaler,David Phillips,lindseyweber@example.com,220-858-0756x66893,1.3,45,88.9,Yes
+SUP005,Montgomery-Clayton,Japan,Tonyaburgh,Distributor,Garrett Bailey,gary73@example.com,001-912-715-9829x235,2.9,60,64.4,No
+SUP006,Whitney Inc,Vietnam,New Jessicamouth,Distributor,Jose Calderon,hobbsjonathan@example.net,319-628-8263x27066,4.8,30,85.3,Yes
+SUP007,Patterson Ltd,Brazil,Lake Devinland,Distributor,Denise Tucker,lauraruiz@example.com,(226)760-6452x517,2.7,15,82.8,Yes
+SUP008,Archer Group,Germany,East Timothyview,Distributor,Robert Morrison MD,awatkins@example.org,7372332435,3.0,15,94.7,No
+SUP009,"Rodriguez, Mills and Moore",UK,Smithberg,Wholesaler,Christina Kelly,mhays@example.net,823-505-5210,2.4,45,62.6,Yes
+SUP010,Allen-Houston,Germany,Lake Lisa,Wholesaler,Grace Taylor,vgray@example.net,(550)221-0637,2.6,15,68.1,Yes
+SUP011,"Fuller, Flores and Perez",India,Adamshire,Wholesaler,Marisa Herring,nguyenalicia@example.com,963-912-5957x99199,4.9,90,92.5,No
+SUP012,"Silva, Giles and Rodriguez",USA,East David,Manufacturer,Kyle Jordan,xrichards@example.org,(679)907-0848x15412,1.8,45,62.4,No
+SUP013,Dean-Friedman,Germany,Port Joelport,Wholesaler,Lindsay Tapia,jonathanlewis@example.net,(670)831-0682,2.8,15,87.4,Yes
+SUP014,"Brock, Walker and Santos",Japan,Brittanymouth,Trader,Rebecca Gillespie,rmartinez@example.net,+1-875-453-6703x51521,2.9,30,75.7,Yes
+SUP015,Burke-Sexton,China,Samuelville,Trader,Colleen Davis,thomasgarcia@example.com,460.969.1255x7856,1.6,60,98.7,Yes
+SUP016,Brown-Carter,Japan,Staceyville,Trader,Anthony Ritter,mercadojessica@example.com,648-946-7486x31838,2.1,15,85.3,No
+SUP017,Shelton-Freeman,India,Jasonhaven,Manufacturer,Adrian Hall,gmckinney@example.com,744.360.3486,2.6,30,90.7,No
+SUP018,"Lester, Ortega and Murphy",Japan,Greenfort,Manufacturer,Christopher Schwartz,adriana96@example.com,(558)470-7777x98141,3.1,45,78.1,No
+SUP019,Reilly-Smith,Japan,New Alexandermouth,Trader,Christine Cox,joseph45@example.org,+1-464-614-1779,1.3,60,89.2,No
+SUP020,Miller Ltd,India,Smithfort,Manufacturer,Christopher York,kelsey92@example.net,673-384-4860x620,2.8,90,86.4,Yes
+SUP021,"Miller, Eaton and Gibson",China,Melissaburgh,Manufacturer,Jeffrey Warren,mherrera@example.com,001-905-233-5400x87383,2.7,60,81.8,Yes
+SUP022,"Blankenship, Miller and Spencer",USA,Hoffmanberg,Wholesaler,Jason Jensen,michele80@example.org,+1-944-966-5943x9800,1.6,30,91.0,Yes
+SUP023,Jackson and Sons,India,South Scott,Trader,Heidi Pratt,paige27@example.net,972.755.8170x20237,4.0,90,80.6,Yes
+SUP024,Williams-Johnson,Vietnam,Malonestad,Trader,Tracy Cox,gilesjudith@example.net,+1-876-677-9123x56443,2.8,45,81.6,Yes
+SUP025,"Munoz, Lamb and Smith",UK,Lake Karenmouth,Wholesaler,Cory Brown,jbruce@example.com,783-242-8626x973,2.0,15,66.8,Yes
+SUP026,Ramirez-Jones,China,Port Anthonychester,Wholesaler,Tracy Schmitt,pblevins@example.org,377.445.0436x899,4.1,30,61.9,Yes
+SUP027,Hardin Inc,Vietnam,Tammyville,Trader,Amy Green,gonzalesjill@example.org,493-553-3490x089,1.7,15,94.0,Yes
+SUP028,Jones PLC,Japan,Janeport,Distributor,Thomas Rangel,icarter@example.org,(213)533-2238,1.2,30,74.6,Yes
+SUP029,Yates-Brown,Japan,Hunterburgh,Wholesaler,Denise Good,ckemp@example.com,828-797-3531x6439,1.2,30,79.3,No
+SUP030,Scott-Boyd,UK,New George,Manufacturer,Mrs. Jessica Wise,fgross@example.com,(572)920-8118x263,1.8,15,80.9,Yes

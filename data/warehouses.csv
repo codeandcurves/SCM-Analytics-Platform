@@ -1,0 +1,9 @@
+Warehouse_ID,Warehouse_Name,City,State,Country,Capacity_Units
+WH001,Chennai Warehouse,Chennai,Tamil Nadu,India,11293
+WH002,Mumbai Warehouse,Mumbai,Maharashtra,India,23840
+WH003,Delhi Warehouse,Delhi,Delhi,India,41478
+WH004,Bangalore Warehouse,Bangalore,Karnataka,India,31965
+WH005,Hyderabad Warehouse,Hyderabad,Telangana,India,47949
+WH006,Pune Warehouse,Pune,Maharashtra,India,21108
+WH007,Kolkata Warehouse,Kolkata,West Bengal,India,13391
+WH008,Ahmedabad Warehouse,Ahmedabad,Gujarat,India,43717
